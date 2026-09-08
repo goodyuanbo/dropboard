@@ -2,6 +2,8 @@
 
 **Drop a CSV file. Get an instant dashboard.** No install, no account, no internet needed — your data never leaves your machine.
 
+▶ **[Try it live in your browser →](https://goodyuanbo.github.io/dropboard/)** (or download `DropBoard-Lite.html` below)
+
 DropBoard Lite is the free, open-source edition of [DropBoard](https://boboyuan.gumroad.com/l/ezzks). Open `DropBoard-Lite.html` in any modern browser (or serve it), drag a CSV in, and you get:
 
 - **KPI cards** for every numeric column
