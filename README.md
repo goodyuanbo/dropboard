@@ -34,3 +34,16 @@ DropBoard Lite is the free, open-source edition of [DropBoard](https://boboyuan.
 ## License
 
 MIT
+
+
+---
+
+## More free tools - 30+ single-file apps
+
+DropBoard is one of **30+ tiny offline tools** I build: finance, developer, privacy and creator tools - all single-file, all offline, no account.
+
+- Free online versions: https://goodyuanbo.github.io
+- Full shop (one-time price, no subscription): https://boboyuan.gumroad.com
+- Everything bundled - $99: https://boboyuan.gumroad.com/l/etvqgf
+
+*Everything runs in your browser. Nothing is uploaded.*
